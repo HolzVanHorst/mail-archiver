@@ -1,3 +1,8 @@
+# About this Fork
+This is a personal fork of the Original Project for private use.
+Original project: [[Original Project](https://github.com/s1t5/mail-archiver)]
+
+
 # 📧 Mail-Archiver - Email Archiving System
 
 **A comprehensive solution for archiving, searching, and exporting emails**
